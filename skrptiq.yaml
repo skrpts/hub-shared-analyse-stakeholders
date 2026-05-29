@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "2a6155ae-556f-4679-9c35-4333a6da0b75"
+name: "analyse-stakeholders"
+display_name: "Analyse Stakeholders"
+description: "Maps stakeholders by influence, interest, and engagement strategy"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-analyse-stakeholders"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
